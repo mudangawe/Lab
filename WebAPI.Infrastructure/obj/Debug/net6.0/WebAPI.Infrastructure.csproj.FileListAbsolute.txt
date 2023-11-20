@@ -1,0 +1,15 @@
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\WebAPI.Infrastructure\bin\Debug\net6.0\WebAPI.Infrastructure.deps.json
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\WebAPI.Infrastructure\bin\Debug\net6.0\WebAPI.Infrastructure.dll
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\WebAPI.Infrastructure\bin\Debug\net6.0\WebAPI.Infrastructure.pdb
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\WebAPI.Infrastructure\bin\Debug\net6.0\WebAPI.Common.dll
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\WebAPI.Infrastructure\bin\Debug\net6.0\WebAPI.Common.pdb
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\WebAPI.Infrastructure\obj\Debug\net6.0\WebAPI.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\WebAPI.Infrastructure\obj\Debug\net6.0\WebAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\WebAPI.Infrastructure\obj\Debug\net6.0\WebAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\WebAPI.Infrastructure\obj\Debug\net6.0\WebAPI.Infrastructure.AssemblyInfo.cs
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\WebAPI.Infrastructure\obj\Debug\net6.0\WebAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\WebAPI.Infrastructure\obj\Debug\net6.0\WebAPI.Infrastructure.csproj.CopyComplete
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\WebAPI.Infrastructure\obj\Debug\net6.0\WebAPI.Infrastructure.dll
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\WebAPI.Infrastructure\obj\Debug\net6.0\refint\WebAPI.Infrastructure.dll
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\WebAPI.Infrastructure\obj\Debug\net6.0\WebAPI.Infrastructure.pdb
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\WebAPI.Infrastructure\obj\Debug\net6.0\ref\WebAPI.Infrastructure.dll

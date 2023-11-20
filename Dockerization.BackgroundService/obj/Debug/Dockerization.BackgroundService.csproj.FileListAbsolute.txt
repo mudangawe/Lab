@@ -1,0 +1,17 @@
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\Dockerization.BackgroundService\obj\Debug\Dockerization.BackgroundService.csproj.AssemblyReference.cache
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\Dockerization.BackgroundService\obj\Debug\Dockerization.BackgroundService.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\Dockerization.BackgroundService\obj\Debug\Dockerization.BackgroundService.csproj.CoreCompileInputs.cache
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\Dockerization.BackgroundService\bin\Debug\Dockerization.BackgroundService.exe.config
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\Dockerization.BackgroundService\bin\Debug\Dockerization.BackgroundService.exe
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\Dockerization.BackgroundService\bin\Debug\Dockerization.BackgroundService.pdb
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\Dockerization.BackgroundService\bin\Debug\Dapper.StrongName.dll
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\Dockerization.BackgroundService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\Dockerization.BackgroundService\bin\Debug\Dapper.StrongName.xml
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\Dockerization.BackgroundService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\Dockerization.BackgroundService\obj\Debug\Dockerization.BackgroundService.csproj.CopyComplete
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\Dockerization.BackgroundService\obj\Debug\Dockerization.BackgroundService.exe
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\Dockerization.BackgroundService\obj\Debug\Dockerization.BackgroundService.pdb
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\Dockerization.BackgroundService\bin\Debug\Dockerization.BackgroundService.exe.manifest
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\Dockerization.BackgroundService\bin\Debug\Dockerization.BackgroundService.application
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\Dockerization.BackgroundService\obj\Debug\Dockerization.BackgroundService.exe.manifest
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\Dockerization.BackgroundService\obj\Debug\Dockerization.BackgroundService.application
