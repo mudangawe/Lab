@@ -1,0 +1,33 @@
+# Build Stage
+FROM mcr.microsoft.com/dotnet/sdk:5.0 AS build
+WORKDIR /app
+
+# Copy and restore dependencies
+COPY WebAPI.csproj ./WebAPI/
+COPY Dockerization.BackgroundService.csproj ./BackgroundService/
+RUN dotnet restore ./WebAPI/WebAPI.csproj
+RUN dotnet restore ./Dockerization.BackgroundService/Dockerization.BackgroundService.csproj
+
+# Copy the remaining files
+COPY . .
+
+# Build both projects
+RUN dotnet build -c Release ./WebApi/WebAPI.csproj
+RUN dotnet build -c Release ./WindowsService/Dockerization.BackgroundService.csproj
+
+# Publish Stage
+FROM build AS publish
+RUN dotnet publish -c Release ./WebAPI/WebAPI.csproj -o /app/publish/webapi
+RUN dotnet publish -c Release ./Dockerization.BackgroundService/Dockerization.BackgroundService.csproj -o /app/publish/windowservice
+
+# Final Stage
+FROM mcr.microsoft.com/dotnet/runtime:5.0 AS final
+WORKDIR /app
+
+# Copy the published outputs from the build stage
+COPY --from=publish /app/publish/webapi ./webapi
+COPY --from=publish /app/publish/windowservice ./windowservice
+
+# Set the entry point for your Windows service
+WORKDIR /app/windowservice
+ENTRYPOINT ["dotnet", "WebAPI.dll"]

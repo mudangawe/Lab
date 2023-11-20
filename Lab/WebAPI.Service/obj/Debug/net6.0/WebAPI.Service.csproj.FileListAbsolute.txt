@@ -1,0 +1,17 @@
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\WebAPI.Service\bin\Debug\net6.0\WebAPI.Service.deps.json
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\WebAPI.Service\bin\Debug\net6.0\WebAPI.Service.dll
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\WebAPI.Service\bin\Debug\net6.0\WebAPI.Service.pdb
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\WebAPI.Service\bin\Debug\net6.0\WebAPI.Common.dll
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\WebAPI.Service\bin\Debug\net6.0\WebAPI.Infrastructure.dll
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\WebAPI.Service\bin\Debug\net6.0\WebAPI.Common.pdb
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\WebAPI.Service\bin\Debug\net6.0\WebAPI.Infrastructure.pdb
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\WebAPI.Service\obj\Debug\net6.0\WebAPI.Service.csproj.AssemblyReference.cache
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\WebAPI.Service\obj\Debug\net6.0\WebAPI.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\WebAPI.Service\obj\Debug\net6.0\WebAPI.Service.AssemblyInfoInputs.cache
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\WebAPI.Service\obj\Debug\net6.0\WebAPI.Service.AssemblyInfo.cs
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\WebAPI.Service\obj\Debug\net6.0\WebAPI.Service.csproj.CoreCompileInputs.cache
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\WebAPI.Service\obj\Debug\net6.0\WebAPI.Service.csproj.CopyComplete
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\WebAPI.Service\obj\Debug\net6.0\WebAPI.Service.dll
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\WebAPI.Service\obj\Debug\net6.0\refint\WebAPI.Service.dll
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\WebAPI.Service\obj\Debug\net6.0\WebAPI.Service.pdb
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\WebAPI.Service\obj\Debug\net6.0\ref\WebAPI.Service.dll

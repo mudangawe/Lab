@@ -1,0 +1,12 @@
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\WebAPI.Common\bin\Debug\net6.0\WebAPI.Common.deps.json
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\WebAPI.Common\bin\Debug\net6.0\WebAPI.Common.dll
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\WebAPI.Common\bin\Debug\net6.0\WebAPI.Common.pdb
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\WebAPI.Common\obj\Debug\net6.0\WebAPI.Common.csproj.AssemblyReference.cache
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\WebAPI.Common\obj\Debug\net6.0\WebAPI.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\WebAPI.Common\obj\Debug\net6.0\WebAPI.Common.AssemblyInfoInputs.cache
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\WebAPI.Common\obj\Debug\net6.0\WebAPI.Common.AssemblyInfo.cs
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\WebAPI.Common\obj\Debug\net6.0\WebAPI.Common.csproj.CoreCompileInputs.cache
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\WebAPI.Common\obj\Debug\net6.0\WebAPI.Common.dll
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\WebAPI.Common\obj\Debug\net6.0\refint\WebAPI.Common.dll
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\WebAPI.Common\obj\Debug\net6.0\WebAPI.Common.pdb
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\WebAPI.Common\obj\Debug\net6.0\ref\WebAPI.Common.dll

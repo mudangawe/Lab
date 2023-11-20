@@ -1,0 +1,5 @@
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\BackgroundService\obj\Debug\net6.0\BackgroundService.csproj.AssemblyReference.cache
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\BackgroundService\obj\Debug\net6.0\BackgroundService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\BackgroundService\obj\Debug\net6.0\BackgroundService.AssemblyInfoInputs.cache
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\BackgroundService\obj\Debug\net6.0\BackgroundService.AssemblyInfo.cs
+C:\Users\Gift.Ramashia\source\Practise\Dockerization\WebAPI\BackgroundService\obj\Debug\net6.0\BackgroundService.csproj.CoreCompileInputs.cache
